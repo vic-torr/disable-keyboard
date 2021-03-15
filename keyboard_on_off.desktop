@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Keyboard ON-OFF
+Icon=/home/victor/.local/share/applications/disable_keyboard/enable.png
+Exec=bash ./disable_keyboard.sh
+Path=/home/victor/.local/share/applications/disable_keyboard/
+NoDisplay=false
+Categories=Utility;
+StartupNotify=false
+Terminal=false
